@@ -20,6 +20,6 @@ public class JenkinsTestApplication {
 
 	@RequestMapping("/hello")
 	public String index() {
-		return "Hello World4";
+		return "Hello World test1";
 	}
 }
